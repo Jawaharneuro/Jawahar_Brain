@@ -1,0 +1,121 @@
+Folder,Gestational_Age,Operated,Region_Label,Region_Name,Voxel_Count
+fetal_SB_atlas_GA21_notoperated,21,False,1,Cerebral Cortex,56117
+fetal_SB_atlas_GA21_notoperated,21,False,2,Subcortical Gray Matter,16411
+fetal_SB_atlas_GA21_notoperated,21,False,3,White Matter,2518
+fetal_SB_atlas_GA21_notoperated,21,False,4,Brainstem,2656
+fetal_SB_atlas_GA21_notoperated,21,False,5,Cerebellum,12057
+fetal_SB_atlas_GA21_notoperated,21,False,6,Ventricular System,8081
+fetal_SB_atlas_GA21_notoperated,21,False,7,Extra-axial CSF,3217
+fetal_SB_atlas_GA21_notoperated,21,False,8,Spinal Lesion Region,463
+fetal_SB_atlas_GA22_notoperated,22,False,1,Cerebral Cortex,64313
+fetal_SB_atlas_GA22_notoperated,22,False,2,Subcortical Gray Matter,19470
+fetal_SB_atlas_GA22_notoperated,22,False,3,White Matter,3166
+fetal_SB_atlas_GA22_notoperated,22,False,4,Brainstem,4247
+fetal_SB_atlas_GA22_notoperated,22,False,5,Cerebellum,15070
+fetal_SB_atlas_GA22_notoperated,22,False,6,Ventricular System,9223
+fetal_SB_atlas_GA22_notoperated,22,False,7,Extra-axial CSF,3358
+fetal_SB_atlas_GA22_notoperated,22,False,8,Spinal Lesion Region,666
+fetal_SB_atlas_GA23_notoperated,23,False,1,Cerebral Cortex,74662
+fetal_SB_atlas_GA23_notoperated,23,False,2,Subcortical Gray Matter,26470
+fetal_SB_atlas_GA23_notoperated,23,False,3,White Matter,3734
+fetal_SB_atlas_GA23_notoperated,23,False,4,Brainstem,4971
+fetal_SB_atlas_GA23_notoperated,23,False,5,Cerebellum,16512
+fetal_SB_atlas_GA23_notoperated,23,False,6,Ventricular System,9413
+fetal_SB_atlas_GA23_notoperated,23,False,7,Extra-axial CSF,3307
+fetal_SB_atlas_GA23_notoperated,23,False,8,Spinal Lesion Region,707
+fetal_SB_atlas_GA24_notoperated,24,False,1,Cerebral Cortex,83772
+fetal_SB_atlas_GA24_notoperated,24,False,2,Subcortical Gray Matter,34952
+fetal_SB_atlas_GA24_notoperated,24,False,3,White Matter,2630
+fetal_SB_atlas_GA24_notoperated,24,False,4,Brainstem,10455
+fetal_SB_atlas_GA24_notoperated,24,False,5,Cerebellum,19246
+fetal_SB_atlas_GA24_notoperated,24,False,6,Ventricular System,10880
+fetal_SB_atlas_GA24_notoperated,24,False,7,Extra-axial CSF,3486
+fetal_SB_atlas_GA24_notoperated,24,False,8,Spinal Lesion Region,817
+fetal_SB_atlas_GA25_notoperated,25,False,1,Cerebral Cortex,92479
+fetal_SB_atlas_GA25_notoperated,25,False,2,Subcortical Gray Matter,41761
+fetal_SB_atlas_GA25_notoperated,25,False,3,White Matter,3561
+fetal_SB_atlas_GA25_notoperated,25,False,4,Brainstem,7984
+fetal_SB_atlas_GA25_notoperated,25,False,5,Cerebellum,23944
+fetal_SB_atlas_GA25_notoperated,25,False,6,Ventricular System,12426
+fetal_SB_atlas_GA25_notoperated,25,False,7,Extra-axial CSF,4028
+fetal_SB_atlas_GA25_notoperated,25,False,8,Spinal Lesion Region,904
+fetal_SB_atlas_GA25_operated,25,True,1,Cerebral Cortex,89100
+fetal_SB_atlas_GA25_operated,25,True,2,Subcortical Gray Matter,40776
+fetal_SB_atlas_GA25_operated,25,True,3,White Matter,3127
+fetal_SB_atlas_GA25_operated,25,True,4,Brainstem,47806
+fetal_SB_atlas_GA25_operated,25,True,5,Cerebellum,30959
+fetal_SB_atlas_GA25_operated,25,True,6,Ventricular System,11106
+fetal_SB_atlas_GA25_operated,25,True,7,Extra-axial CSF,4322
+fetal_SB_atlas_GA25_operated,25,True,8,Spinal Lesion Region,1313
+fetal_SB_atlas_GA26_operated,26,True,1,Cerebral Cortex,109446
+fetal_SB_atlas_GA26_operated,26,True,2,Subcortical Gray Matter,44109
+fetal_SB_atlas_GA26_operated,26,True,3,White Matter,3567
+fetal_SB_atlas_GA26_operated,26,True,4,Brainstem,65157
+fetal_SB_atlas_GA26_operated,26,True,5,Cerebellum,48150
+fetal_SB_atlas_GA26_operated,26,True,6,Ventricular System,11595
+fetal_SB_atlas_GA26_operated,26,True,7,Extra-axial CSF,4667
+fetal_SB_atlas_GA26_operated,26,True,8,Spinal Lesion Region,1505
+fetal_SB_atlas_GA27_operated,27,True,1,Cerebral Cortex,113557
+fetal_SB_atlas_GA27_operated,27,True,2,Subcortical Gray Matter,46864
+fetal_SB_atlas_GA27_operated,27,True,3,White Matter,3676
+fetal_SB_atlas_GA27_operated,27,True,4,Brainstem,82170
+fetal_SB_atlas_GA27_operated,27,True,5,Cerebellum,72047
+fetal_SB_atlas_GA27_operated,27,True,6,Ventricular System,12984
+fetal_SB_atlas_GA27_operated,27,True,7,Extra-axial CSF,4507
+fetal_SB_atlas_GA27_operated,27,True,8,Spinal Lesion Region,1774
+fetal_SB_atlas_GA28_operated,28,True,1,Cerebral Cortex,112349
+fetal_SB_atlas_GA28_operated,28,True,2,Subcortical Gray Matter,32931
+fetal_SB_atlas_GA28_operated,28,True,3,White Matter,3766
+fetal_SB_atlas_GA28_operated,28,True,4,Brainstem,98066
+fetal_SB_atlas_GA28_operated,28,True,5,Cerebellum,60595
+fetal_SB_atlas_GA28_operated,28,True,6,Ventricular System,13261
+fetal_SB_atlas_GA28_operated,28,True,7,Extra-axial CSF,5591
+fetal_SB_atlas_GA28_operated,28,True,8,Spinal Lesion Region,1769
+fetal_SB_atlas_GA29_operated,29,True,1,Cerebral Cortex,172904
+fetal_SB_atlas_GA29_operated,29,True,2,Subcortical Gray Matter,61658
+fetal_SB_atlas_GA29_operated,29,True,3,White Matter,10418
+fetal_SB_atlas_GA29_operated,29,True,4,Brainstem,153069
+fetal_SB_atlas_GA29_operated,29,True,5,Cerebellum,98902
+fetal_SB_atlas_GA29_operated,29,True,6,Ventricular System,21036
+fetal_SB_atlas_GA29_operated,29,True,7,Extra-axial CSF,7071
+fetal_SB_atlas_GA29_operated,29,True,8,Spinal Lesion Region,2524
+fetal_SB_atlas_GA30_operated,30,True,1,Cerebral Cortex,157062
+fetal_SB_atlas_GA30_operated,30,True,2,Subcortical Gray Matter,54224
+fetal_SB_atlas_GA30_operated,30,True,3,White Matter,10476
+fetal_SB_atlas_GA30_operated,30,True,4,Brainstem,156223
+fetal_SB_atlas_GA30_operated,30,True,5,Cerebellum,94451
+fetal_SB_atlas_GA30_operated,30,True,6,Ventricular System,20275
+fetal_SB_atlas_GA30_operated,30,True,7,Extra-axial CSF,8492
+fetal_SB_atlas_GA30_operated,30,True,8,Spinal Lesion Region,2579
+fetal_SB_atlas_GA31_operated,31,True,1,Cerebral Cortex,189770
+fetal_SB_atlas_GA31_operated,31,True,2,Subcortical Gray Matter,89877
+fetal_SB_atlas_GA31_operated,31,True,3,White Matter,10952
+fetal_SB_atlas_GA31_operated,31,True,4,Brainstem,184999
+fetal_SB_atlas_GA31_operated,31,True,5,Cerebellum,109413
+fetal_SB_atlas_GA31_operated,31,True,6,Ventricular System,23499
+fetal_SB_atlas_GA31_operated,31,True,7,Extra-axial CSF,9094
+fetal_SB_atlas_GA31_operated,31,True,8,Spinal Lesion Region,2907
+fetal_SB_atlas_GA32_operated,32,True,1,Cerebral Cortex,195974
+fetal_SB_atlas_GA32_operated,32,True,2,Subcortical Gray Matter,68177
+fetal_SB_atlas_GA32_operated,32,True,3,White Matter,11327
+fetal_SB_atlas_GA32_operated,32,True,4,Brainstem,165211
+fetal_SB_atlas_GA32_operated,32,True,5,Cerebellum,107877
+fetal_SB_atlas_GA32_operated,32,True,6,Ventricular System,24887
+fetal_SB_atlas_GA32_operated,32,True,7,Extra-axial CSF,9532
+fetal_SB_atlas_GA32_operated,32,True,8,Spinal Lesion Region,2676
+fetal_SB_atlas_GA33_operated,33,True,1,Cerebral Cortex,220777
+fetal_SB_atlas_GA33_operated,33,True,2,Subcortical Gray Matter,71177
+fetal_SB_atlas_GA33_operated,33,True,3,White Matter,15660
+fetal_SB_atlas_GA33_operated,33,True,4,Brainstem,162488
+fetal_SB_atlas_GA33_operated,33,True,5,Cerebellum,123331
+fetal_SB_atlas_GA33_operated,33,True,6,Ventricular System,26231
+fetal_SB_atlas_GA33_operated,33,True,7,Extra-axial CSF,9615
+fetal_SB_atlas_GA33_operated,33,True,8,Spinal Lesion Region,2561
+fetal_SB_atlas_GA34_operated,34,True,1,Cerebral Cortex,215379
+fetal_SB_atlas_GA34_operated,34,True,2,Subcortical Gray Matter,96044
+fetal_SB_atlas_GA34_operated,34,True,3,White Matter,16275
+fetal_SB_atlas_GA34_operated,34,True,4,Brainstem,136813
+fetal_SB_atlas_GA34_operated,34,True,5,Cerebellum,112537
+fetal_SB_atlas_GA34_operated,34,True,6,Ventricular System,26971
+fetal_SB_atlas_GA34_operated,34,True,7,Extra-axial CSF,9824
+fetal_SB_atlas_GA34_operated,34,True,8,Spinal Lesion Region,2741

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and large files
+data/
+results/figures/*.png
+
+# OS
+.DS_Store
+Thumbs.db

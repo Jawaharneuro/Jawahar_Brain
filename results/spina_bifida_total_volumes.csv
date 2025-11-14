@@ -1,0 +1,16 @@
+Folder,Gestational_Age,Operated,Total_Brain_Volume
+fetal_SB_atlas_GA21_notoperated,21,False,101520
+fetal_SB_atlas_GA22_notoperated,22,False,119513
+fetal_SB_atlas_GA23_notoperated,23,False,139776
+fetal_SB_atlas_GA24_notoperated,24,False,166238
+fetal_SB_atlas_GA25_notoperated,25,False,187087
+fetal_SB_atlas_GA25_operated,25,True,228509
+fetal_SB_atlas_GA26_operated,26,True,288196
+fetal_SB_atlas_GA27_operated,27,True,337579
+fetal_SB_atlas_GA28_operated,28,True,328328
+fetal_SB_atlas_GA29_operated,29,True,527582
+fetal_SB_atlas_GA30_operated,30,True,503782
+fetal_SB_atlas_GA31_operated,31,True,620511
+fetal_SB_atlas_GA32_operated,32,True,585661
+fetal_SB_atlas_GA33_operated,33,True,631840
+fetal_SB_atlas_GA34_operated,34,True,616584
